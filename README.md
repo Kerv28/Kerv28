@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 currently working on a DTR System<br>📚 currently learning backend development<br>📝 I'm a aspiring full-stack developer
+🔭 Currently working on a DTR System<br>📚 Currently learning backend development<br>📝 I'm a aspiring full-stack developer
 
 
 ## 🌐 Socials:
